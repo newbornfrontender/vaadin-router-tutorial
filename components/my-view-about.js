@@ -5,7 +5,7 @@ import { updateMetadata } from 'pwa-helpers/metadata';
 const template = document.createElement('template');
 
 template.innerHTML = `
-<h1>About</h1>
+  <h1>About</h1>
 `;
 
 class MyViewAbout extends HTMLElement {
