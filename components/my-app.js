@@ -11,6 +11,10 @@ const navList = [
     text: 'About',
     href: '/about',
   },
+  {
+    text: 'Not found',
+    href: '/not-found',
+  },
 ];
 
 class MyApp extends HTMLElement {
@@ -51,6 +55,11 @@ class MyApp extends HTMLElement {
         path: '/about',
         action: () => import('./my-view-about'),
         component: 'my-view-about',
+      },
+      {
+        path: '(.*)',
+        action: () => import('./my-view-404'),
+        component: 'my-view-404',
       },
     ]);
   }
