@@ -1,3 +1,5 @@
+'use strict';
+
 import { Router } from '@vaadin/router';
 
 const navList = [

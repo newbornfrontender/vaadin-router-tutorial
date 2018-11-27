@@ -1,3 +1,5 @@
+'use strict';
+
 import { updateMetadata } from 'pwa-helpers/metadata';
 
 const template = document.createElement('template');
