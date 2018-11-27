@@ -2,7 +2,7 @@
 
 [Туториал](https://vaadin.com/tutorials/router) по созданию веб-компонентов на [Vaadin Router](https://vaadin.com/router)
 
-> [Документация](https://vaadin.github.io/vaadin-router/vaadin-router/demo/#vaadin-router-getting-started-demos) по роутеру
+> [Документация](https://vaadin.github.io/vaadin-router/vaadin-router/demo/#vaadin-router-getting-started-demos)
 
 <h2 align="center">Команды</h2>
 
