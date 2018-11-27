@@ -22,7 +22,7 @@ $ yarn <название команды>
       <td>
         <code>clean</code>
       </td>
-      <td>Удаление всех js файлов в public</td>
+      <td>Удаление всех js файлов в public директории</td>
     </tr>
     <tr>
       <td>
