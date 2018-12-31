@@ -7,5 +7,4 @@ export default {
     dir: 'public',
   },
   plugins: [nodeResolve()],
-  experimentalCodeSplitting: true,
 };
