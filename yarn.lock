@@ -62,10 +62,10 @@ prettier@1.16.4:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.16.4.tgz#73e37e73e018ad2db9c76742e2647e21790c9717"
   integrity sha512-ZzWuos7TI5CKUeQAtFd6Zhm2s6EpAD/ZLApIhsF9pRvRtM1RFo61dM/4MSRUA0SuLugA/zgrZD8m0BaY46Og7g==
 
-pwa-helpers@0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/pwa-helpers/-/pwa-helpers-0.9.0.tgz#88bc7c60842c7179ab643d337ab20bb252e5bf9d"
-  integrity sha512-lFj0udSHHqEJdf+SmAp8Y9yRJ8s1ieQIbvt4mWXn6NXUOO9ntLXNLBi8PMJGBPkc32cG4nJ6yuJrHzOxC5ZTXw==
+pwa-helpers@0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/pwa-helpers/-/pwa-helpers-0.9.1.tgz#9ea22fa1996ab97df73b276cae962621c3fd2532"
+  integrity sha512-4sP/C9sSxQ3w80AATmvCEI3R+MHzCwr2RSZEbLyMkeJgV3cRk7ySZRUrQnBDSA7A0/z6dkYtjuXlkhN1ZFw3iA==
 
 resolve@^1.8.1:
   version "1.9.0"
