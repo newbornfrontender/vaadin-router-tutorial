@@ -12,23 +12,23 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.2.tgz#c4e63af5e8823ce9cc3f0b34f7b998c2171f0c44"
   integrity sha512-dyYO+f6ihZEtNPDcWNR1fkoTDf3zAK3lAABDze3mz6POyIercH0lEUawUFXlG8xaQZmm1yEBON/4TsYv/laDYg==
 
-"@vaadin/router@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@vaadin/router/-/router-1.2.0.tgz#10143f496104b4b7d7c030c211b0a085a66a20d9"
-  integrity sha512-QUL6OlwIlvMTaSIJr06zdUdCIycmKqWnVL2lATkie7ZEoHfFqVcN4FZ7do3CBEtAQy9+rS2IKTllcR7+YntNcg==
+"@vaadin/router@1.4.1":
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/@vaadin/router/-/router-1.4.1.tgz#30156542d6c00b97e4a0fec9f2031553b398d5b9"
+  integrity sha512-TuEU92zQqjyyNELWEKX6ZmjTMPXNpPYtzimU7yhCVh6nktccxTnav+c6qARISu1mHeSy9HO74upXe1UKqtJ3/A==
   dependencies:
-    "@vaadin/vaadin-usage-statistics" "^2.0.1"
-    path-to-regexp "2.2.1"
+    "@vaadin/vaadin-usage-statistics" "^2.0.8"
+    path-to-regexp "2.4.0"
 
 "@vaadin/vaadin-development-mode-detector@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@vaadin/vaadin-development-mode-detector/-/vaadin-development-mode-detector-2.0.0.tgz#69417cbf4a9f7427ec7b70b7dc8e0605a2f900b3"
   integrity sha512-pzSaUqn+lJbTL2ZC6NCAfhyMymMYg2p4DzeUXdyInJISwSWmgh9RlRVpAGhi6MIUOKC7kGeKPAiB4vyWsEhzDg==
 
-"@vaadin/vaadin-usage-statistics@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@vaadin/vaadin-usage-statistics/-/vaadin-usage-statistics-2.0.1.tgz#277e880c901521f8b763ed0f16ca6900ac6a9f43"
-  integrity sha512-8CmbCXZo8Z343jQT3hMVIvdkjzK72r762/UyqjLD54ArjzadneoA+4U6mFGbnbHO7FZpDhc4BKZRb5KAt0ibGg==
+"@vaadin/vaadin-usage-statistics@^2.0.8":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@vaadin/vaadin-usage-statistics/-/vaadin-usage-statistics-2.0.10.tgz#31be892ac70b285fda05bc808694b247185528e1"
+  integrity sha512-j8bD1Ecl/UB3a2lgzS3j8nh/X2jfA38Pg74vTSepyE6OgzFggjWIyWrlrnQScQik5PkjHByKW4Cj33Rpt2Zm8g==
   dependencies:
     "@vaadin/vaadin-development-mode-detector" "^2.0.0"
 
@@ -52,10 +52,10 @@ path-parse@^1.0.6:
   resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
   integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
 
-path-to-regexp@2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-2.2.1.tgz#90b617025a16381a879bc82a38d4e8bdeb2bcf45"
-  integrity sha512-gu9bD6Ta5bwGrrU8muHzVOBFFREpp2iRkVfhBJahwJ6p6Xw20SjT0MxLnwkjOibQmGSYhiUnf2FLe7k+jcFmGQ==
+path-to-regexp@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-2.4.0.tgz#35ce7f333d5616f1c1e1bfe266c3aba2e5b2e704"
+  integrity sha512-G6zHoVqC6GGTQkZwF4lkuEyMbVOjoBKAEybQUypI1WTkqinCOrq2x6U2+phkJ1XsEMTy4LjtwPI7HW+NVrRR2w==
 
 prettier@1.16.4:
   version "1.16.4"
