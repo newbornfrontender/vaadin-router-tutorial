@@ -12,10 +12,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.2.tgz#c4e63af5e8823ce9cc3f0b34f7b998c2171f0c44"
   integrity sha512-dyYO+f6ihZEtNPDcWNR1fkoTDf3zAK3lAABDze3mz6POyIercH0lEUawUFXlG8xaQZmm1yEBON/4TsYv/laDYg==
 
-"@vaadin/router@1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@vaadin/router/-/router-1.4.2.tgz#04d4f5679ddbf039c95ab8bfc17434a8a2fdb16e"
-  integrity sha512-BT9cZulygDhX4ylow//eG1lkplotsTDRTqnVit4mSSw8Z1OE8igioVzB2XYWJ/JIhB/vGCIp00RoV+XRc4EBoQ==
+"@vaadin/router@1.5.2":
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/@vaadin/router/-/router-1.5.2.tgz#a80a1146e03806d4476c957c69681e6b681fcc66"
+  integrity sha512-Byjz/FQ7ohGZRrxZnoZ2DJgTUWtj7YLKFY9L4iaWw/NW9fklPyn+wYRgPfLc/uk3srBr1Hc9JWg/b++lE6lyfw==
   dependencies:
     "@vaadin/vaadin-usage-statistics" "^2.0.8"
     path-to-regexp "2.4.0"
