@@ -16,7 +16,7 @@
     "pwa-helpers": "0.9.1"
   },
   "devDependencies": {
-    "prettier": "1.16.4",
+    "prettier": "1.19.1",
     "rollup": "1.20.3",
     "rollup-plugin-node-resolve": "4.0.1"
   }
